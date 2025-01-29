@@ -1,1 +1,2 @@
 perkenalkan nama saya ini adalah interface session~
+dan ini adalah bagian backand(backend)
